@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="author" content="blacklizt">
 <meta name="robots" content="all">
-<meta name="description" content="ShiNobiLeech Neatblue theme modified by Yagami-Kira">
+<meta name="description" content="With New Neatblue theme modified by Yagami-Kira">
 <meta name="keywords" content="neatblue">
 <link rel="stylesheet" href="templates/neatblue/styles/rl_style_pm.css">
 <title><?php
