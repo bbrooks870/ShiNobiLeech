@@ -31,4 +31,4 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script src="classes/sorttable.js
 <script type="text/javascript">function toggle(b){var a=document.getElementById(b);if(a.style.display=="none"){a.style.display="block"}else{a.style.display="none"}};</script>
 </head>
 <body>
-<header><img src="https://user-images.githubusercontent.com/64221555/101983228-a162b780-3c9f-11eb-9d43-9d25ba496092.jpg" height="280" width="auto" alt="ShiNobiLeech neatblue by Yagami-Kira"></header><br />
+<header><img src="https://user-images.githubusercontent.com/64221555/101983228-a162b780-3c9f-11eb-9d43-9d25ba496092.jpg" height="270" width="auto" alt="ShiNobiLeech neatblue by Yagami-Kira"></header><br />
